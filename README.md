@@ -1,2 +1,2 @@
 # Meteor-Rain-Game
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Try the game here](https://aleksandargubecka.github.io/meteor-rain-game.io/)
